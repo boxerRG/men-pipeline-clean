@@ -1,4 +1,4 @@
-name: Test only
+﻿name: Test only
 
 on:
   push:
